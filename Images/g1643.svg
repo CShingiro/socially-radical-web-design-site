@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="164.47649mm"
+   height="66.688965mm"
+   viewBox="0 0 164.47649 66.688965"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+  >
+  <defs
+     id="defs2" />
+  <g
+     id="g504">
+    <rect
+       style="fill:#ffffff;stroke-width:4.99999"
+       id="rect430"
+       width="165.51262"
+       height="67.097382"
+       x="-0.038634036"
+       y="-0.090514019"
+       ry="0" />
+    <g
+       id="layer1"
+       transform="translate(-25.496762,-69.717955)">
+      <g
+         id="g1643">
+        <rect
+           style="fill:#000000;stroke-width:8.87619"
+           id="rect1382"
+           width="95.247719"
+           height="25.755714"
+           x="60.190479"
+           y="89.255219"
+           ry="4.6826696" />
+        <rect
+           style="fill:#ffffff;stroke-width:9.0874"
+           id="rect826"
+           width="87.661232"
+           height="17.611708"
+           x="64.070816"
+           y="93.564156"
+           ry="4.1477251" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'romade';-inkscape-font-specification:'romade';fill:#000000;stroke-width:8.99999"
+           x="72.449532"
+           y="104.9042"
+           id="text302"><tspan
+             id="tspan300"
+             style="stroke-width:9"
+             x="72.449532"
+             y="104.9042">Socially Radical</tspan></text>
+        <path
+           style="fill:#000000;stroke-width:5.34904"
+           d="m 87.898273,118.5329 -22.452376,16.82995 84.897463,-0.0257 -22.22227,-16.74962 z"
+           id="path617" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'romade';-inkscape-font-specification:'romade';fill:#ffffff;stroke-width:8.99999"
+           x="81.356567"
+           y="130.32893"
+           id="text670"><tspan
+             id="tspan668"
+             style="fill:#ffffff;stroke-width:9"
+             x="81.356567"
+             y="130.32893">Web Design</tspan></text>
+        <g
+           id="g1612">
+          <g
+             id="g1494">
+            <rect
+               style="fill:#000000;stroke-width:8.99999"
+               id="rect1384"
+               width="9.29354"
+               height="46.388432"
+               x="33.342201"
+               y="90.018417"
+               ry="4.64677" />
+            <ellipse
+               style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+               id="path1438"
+               cx="38.084835"
+               cy="82.305954"
+               rx="10.088074"
+               ry="10.088" />
+          </g>
+          <path
+             style="fill:#000000;stroke:none;stroke-width:4.99999;stroke-dasharray:none;stroke-opacity:1"
+             id="path1554"
+             d="m 38.801328,169.30908 -9.862135,-5.30407 -9.960355,5.11724 1.996895,-11.01849 -7.944701,-7.89155 11.096285,-1.50574 5.050259,-9.99448 4.860986,10.08789 11.065933,1.71462 -8.09203,7.7404 z"
+             transform="matrix(0.30063652,0,0,0.28556246,29.344892,37.733229)" />
+        </g>
+        <g
+           id="g1622"
+           transform="translate(139.30034,4.6318054e-5)">
+          <g
+             id="g1618">
+            <rect
+               style="fill:#000000;stroke-width:8.99999"
+               id="rect1614"
+               width="9.29354"
+               height="46.388432"
+               x="33.342201"
+               y="90.018417"
+               ry="4.64677" />
+            <ellipse
+               style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+               id="ellipse1616"
+               cx="38.084835"
+               cy="82.305954"
+               rx="10.088074"
+               ry="10.088" />
+          </g>
+          <path
+             style="fill:#000000;stroke:none;stroke-width:4.99999;stroke-dasharray:none;stroke-opacity:1"
+             id="path1620"
+             d="m 38.801328,169.30908 -9.862135,-5.30407 -9.960355,5.11724 1.996895,-11.01849 -7.944701,-7.89155 11.096285,-1.50574 5.050259,-9.99448 4.860986,10.08789 11.065933,1.71462 -8.09203,7.7404 z"
+             transform="matrix(0.30063652,0,0,0.28556246,29.344892,37.733229)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
